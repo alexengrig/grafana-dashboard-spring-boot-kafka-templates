@@ -334,14 +334,14 @@
     ]
   },
   "time": {
-    "from": "2024-03-25T03:51:18.827Z",
-    "to": "2024-03-25T23:20:23.157Z"
+    "from": "now-30m",
+    "to": "now"
   },
   "timepicker": {},
   "timezone": "",
   "title": "Spring Boot Kafka Templates",
   "uid": "spring-boot-kafka-templates",
   "version": 1,
-  "revision": 1,
+  "revision": 2,
   "weekStart": ""
 }
